@@ -51,18 +51,19 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
+ 
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id:2202900100011 ,
+        name: "Abhinav Tyagi",
+        img: "https://avatars.githubusercontent.com/u/132747922?v=4",
+        role: "App Development Contributor",
+        social1: "https://www.linkedin.com/in/abhinav-tyagi-515044251",
+        social2: "https://twitter.com/abhinavtyagi_07",
+        desc: "live on code"
+      },
   ];
 
 
